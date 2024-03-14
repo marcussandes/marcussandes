@@ -22,7 +22,7 @@ Futuro Desenvolvedor Back-End cursando Análise e Desenvolvimento de Sistemas na
 #### 📫 Você pode me encontrar em:
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/marcus_sandesf)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/marcussandes/)](https://www.linkedin.com/in/marcussandes/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/marcussandes/)](https://www.linkedin.com/in/marcus-sandes/)
 
 [![Outlook](https://img.shields.io/badge/marcus.sandesf@gmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:marcus.sandesf@gmail.com)](mailto:marcus.sandesf@gmail.com)
 
