@@ -1,38 +1,56 @@
-#### Olá Mundo! Pode me chamar de Marcus <img src="https://raw.githubusercontent.com/arthurgalanti/arthurgalanti/main/assets/man-technologist.gif" width="30" style="vertical-align: middle;">
+<link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
 
-Futuro Desenvolvedor Back-End cursando Análise e Desenvolvimento de Sistemas na UNIP, apaixonado por resolver problemas!
+<h1 style="font-family: Monoton; font-size: 40px; color: #3178C6; text-align: center;">
+    <a href="https://www.dio.me/">
+        <img align="center" 
+        width="50px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
+    </a>
+    Marcus Sandes
+</h1>
+<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcussandes&show_icons=true&theme=radical)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50CEEB&size=45&center=true&vCenter=true&width=900&lines=Seja+Bem+Vindo+ao+Meu+Perfil+👋)](https://git.io/typing-svg)
 
-<div style="width: max-content;">
 
-#### 👨‍💻 Linguagens - Frameworks - Tecnologias - Ferramentas  🛠
 
+
+Olá! me chamo Marcus, futuro desenvolvedor Back-End cursando Análise e Desenvolvimento de Sistemas na UNIP, um entusiasta da programação apaixonado por Java e agora Python. Sou um desenvolvedor autodidata com uma grande paixão por resolver problemas complexos por meio de código limpo e eficiente. Tenho experiência no desenvolvimento de aplicativos e soluções web.
+
+___
+<br><br>
+
+# ***Skils***
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/DB-mysql-informational?style=flat&logo=MySql&logoColor=white&color=Green)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Soft Skill](https://img.shields.io/badge/SoftSkill-informational?style=flat&logo=Soft-Skill&logoColor=white&color=blue)
+![Spring Boot](https://img.shields.io/badge/spring-boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=green)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![Visual Studio](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=5C2D91)
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</div>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232D9EEA?style=flat-square&labelColor=%23414141&logo=visual-studio-code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%231A9A7A?style=flat-square&labelColor=%23414141&logo=openai&logoColor=white)</div></div>
-
-
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-000?informational?style=flat&logo=github&logoColor=30A3DC)](https://github.com/AdminFilipeOliveira)
+<br><br>
 #### 📫 Você pode me encontrar em:
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/marcus_sandesf)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/marcussandes/)](https://www.linkedin.com/in/marcus-sandes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcussandes/)
 
-[![Outlook](https://img.shields.io/badge/marcus.sandesf@gmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:marcus.sandesf@gmail.com)](mailto:marcus.sandesf@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](marcus.sandesf@gmail.com)
+<br><br>
+<br><br>
+
+## ***GitHub Status***
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcussandes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30ADC&text_color=FFF)
+
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcussandes&layout=compact&bg_color=000&border_color=30A3DC&title_color=30ADC&text_color=FFF)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=marcussandes&theme=transparent)
 
 
-
-
-
-
-#### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
-
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcussandes&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/marcussandes?tab=repositories)
-
-#
+<h1>
+Visitors: <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/marcussandes/count.svg" /></p>
